@@ -4,7 +4,7 @@ A console-based **Object-Oriented C++ application** that simulates a real-world 
 
 ---
 
-## 📌 Features
+##  Features
 
 - Add and manage **Cars** and **Trucks**
 - Register **Customers** with CNIC and contact details
@@ -16,7 +16,7 @@ A console-based **Object-Oriented C++ application** that simulates a real-world 
 
 ---
 
-## 🧠 OOP Concepts Used
+## OOP Concepts Used
 
 | Concept | Where Applied |
 |---|---|
